@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "284324425046",
+    "firebase_url": "https://exemplologinfirebase-dd03e.firebaseio.com",
+    "project_id": "exemplologinfirebase-dd03e",
+    "storage_bucket": "exemplologinfirebase-dd03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284324425046:android:3f950f50bc5c7d8e",
+        "android_client_info": {
+          "package_name": "thiagocury.eti.br.exemplologinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284324425046-0fnn9sag34tc281b7osqcbmqo12pohal.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjteqHrw20fmCH-yppJh5GlKRjumomSQM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
